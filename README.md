@@ -2,6 +2,11 @@
 
 This is a simple stopwatch application built using HTML, CSS, and JavaScript. The application allows you to start, stop, and reset a timer that displays the elapsed time in hours, minutes, seconds, and milliseconds.
 
+
+## 🌐 Live Demo
+![Stopwatch Program Screenshot](stopwatch.png)
+[View the live project here!](https://laibatariq110.github.io/Stopwatch-Program)
+
 ## Table of Contents
 
 - [Features](#features)
@@ -48,7 +53,3 @@ This is a simple stopwatch application built using HTML, CSS, and JavaScript. Th
 ## Contributing
 
 If you'd like to contribute to the project, feel free to fork the repository and submit a pull request. Suggestions and improvements are welcome!
-
-## License
-
-This project is licensed under the MIT License.
